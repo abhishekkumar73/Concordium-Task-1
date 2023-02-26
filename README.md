@@ -11,3 +11,5 @@ Follow the instructions on the Rust website.
 ![6.png](6.png)
 ## Export the account from the web wallet and import it into Concordium client: 
 ![7.png](7.png)
+## Mainnet Address 
+4nZMdvA9B6PAA43wHQqLSAbqP3TJ6QFzSyKXQHJLts6E7GY4cf
